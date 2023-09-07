@@ -1,0 +1,53 @@
+
+Students' results of class: 7
+- - - - - - - - - - - - - - - - - - - - - -
+
+Roll no: 1
+- - - - - - - - -
+Name of the Student: Divya
+First Language Marks: 90
+Second Language Marks: 94
+Mathematics Marks: 92
+Science Marks: 93
+Social Marks: 85
+Total Marks: 454
+
+Roll no: 2
+- - - - - - - - -
+Name of the Student: Akash
+First Language Marks: 86
+Second Language Marks: 84
+Mathematics Marks: 96
+Science Marks: 92
+Social Marks: 87
+Total Marks: 445
+
+Roll no: 3
+- - - - - - - - -
+Name of the Student: Suraj
+First Language Marks: 84
+Second Language Marks: 86
+Mathematics Marks: 79
+Science Marks: 73
+Social Marks: 88
+Total Marks: 410
+
+Roll no: 4
+- - - - - - - - -
+Name of the Student: Muskan
+First Language Marks: 92
+Second Language Marks: 87
+Mathematics Marks: 73
+Science Marks: 76
+Social Marks: 72
+Total Marks: 400
+
+Roll no: 5
+- - - - - - - - -
+Name of the Student: Varun
+First Language Marks: 84
+Second Language Marks: 83
+Mathematics Marks: 80
+Science Marks: 75
+Social Marks: 77
+Total Marks: 399
